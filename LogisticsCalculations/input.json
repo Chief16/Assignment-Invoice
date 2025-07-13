@@ -1,0 +1,18 @@
+[
+  {
+    "ShipmentId": "SHP001",
+    "WeightKg": 2000,
+    "DistanceKm": 150,
+    "IsExpress": true,
+    "IsFragile": false,
+    "ClientCategory": "Gold"
+  },
+  {
+    "ShipmentId": "SHP002",
+    "WeightKg": 750,
+    "DistanceKm": 300,
+    "IsExpress": false,
+    "IsFragile": true,
+    "ClientCategory": "Silver"
+  }
+]
